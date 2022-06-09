@@ -43,3 +43,4 @@ services:
                 MYSQL_USERNAME: root
                 MYSQL_ROOT_PASSWORD: Admin@1919
                 PMA_HOST: mysql
+
